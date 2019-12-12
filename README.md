@@ -6,7 +6,7 @@ Well `shit`, so do I.
 
 Although every time I want to do it I have to look up the `shit` Docker arguments.
 
-Then I came up with `shit`.
+Then I came up with this `shit`.
 
 ## Prerequisites
 
