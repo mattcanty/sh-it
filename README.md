@@ -16,8 +16,6 @@ Then I came up with `shit`.
 
 Append your .bashrc/.zshrc file with [shit.sh](shit.sh).
 
-
-
 ## Try it
 
 * `shit python`
