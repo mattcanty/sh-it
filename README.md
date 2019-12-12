@@ -12,11 +12,13 @@ Then I came up with `shit`.
 
 * Docker
 
-## Install
+## Install it
 
-Add [shit.sh](shit.sh) as an alias.
+Append your .bashrc/.zshrc file with [shit.sh](shit.sh).
 
-## Try it!
+
+
+## Try it
 
 * `shit python`
 * `shit alpine`
